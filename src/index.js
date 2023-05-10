@@ -25,5 +25,5 @@ app.post("/register",register);
 app.post("/login",login);
 
 // default data is to push all initial items data into data base
-Defaultdata()
+
 module.exports = app;
